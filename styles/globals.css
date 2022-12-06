@@ -1,6 +1,14 @@
+:root{
+  --primary-color: #84a59d;
+  --secondary-color: #f7ede2;
+  --third-color: #f6bd60;
+}
+
 html,
 body {
   padding: 0;
+  width: 100vw;
+  overflow-x: hidden;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
